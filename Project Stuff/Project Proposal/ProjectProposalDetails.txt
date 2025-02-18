@@ -1,0 +1,24 @@
+Note: This assignment is for CS 575 students only.
+
+Please submit a proposal for your final project. The details of the project are given in the syllabus. Your proposal should outline:
+
+
+
+The topic
+Sources you will consult (e.g. different books, papers, online resources etc.)
+What you will implement (that is code up), and which programming language you intend to use
+
+
+
+Some potential topics for the project are:
+
+Code up two different algorithms for computing the singular value decomposition (SVD)
+Code up one algorithm for computing the SVD and use that for image compression
+GMRES with a preconditioner. Implement preconditioned GMRES and use it to solve linear systems. 
+Use a low-level language (e.g. C, C++) to experiment with blocking algorithms for performance
+Lancoz algorithm to find eigenvalues of a matrix. Learn about Lancoz and code it up
+Implement a multigrid algorithm
+You can also propose a different project of your choice after consultation with me.
+
+All projects should be based fully on codes you will write, that is, do not use library functions, or copy code from the internet. You must be able to explain each line of your code, and the reason you wrote that line. 
+

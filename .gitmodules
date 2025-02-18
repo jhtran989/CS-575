@@ -1,0 +1,6 @@
+[submodule "CS-575-Project"]
+	path = CS-575-Project
+	url = git@github.com:jhtran989/CS-575-Project.git
+[submodule "Project Stuff/Project Report/CS-575-Project"]
+	path = Project Stuff/Project Report/CS-575-Project
+	url = git@github.com:jhtran989/CS-575-Project.git
